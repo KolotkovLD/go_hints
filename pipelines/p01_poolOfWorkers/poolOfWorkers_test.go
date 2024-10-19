@@ -1,4 +1,4 @@
-package pipelines
+package poolOfWorkers
 
 import (
 	"testing"
